@@ -1,0 +1,7 @@
+streamlit
+plotly
+pandas
+yfinance
+requests
+openai
+streamlit-autorefresh
