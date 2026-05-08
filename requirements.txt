@@ -4,4 +4,4 @@ pandas
 yfinance
 requests
 openai
-streamlit-autorefresh
+streamlit_autorefresh
